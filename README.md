@@ -35,7 +35,7 @@ Models are evaluated using **Confusion Matrices** and **ROC Curves**.
  5.📌 Model Performance
 
 ### 🔹 Logistic Regression
-- **Accuracy:** XX%  
+- **Accuracy:** 84%  
 
 Confusion Matrix:  
 ![Logistic Regression Confusion Matrix](plots/confusionmatrix(logistic).png)
@@ -43,7 +43,7 @@ Confusion Matrix:
 ---
 
 ### 🔹 Random Forest
-- **Accuracy:** XX%  
+- **Accuracy:** 88%  
 
 Confusion Matrix:  
 ![Random Forest Confusion Matrix](plots/confusionmatrix(RandomForest).png)
@@ -57,7 +57,7 @@ Confusion Matrix:
 
 ## 📑 Presentation
 Project Presentation (5 slides):  
-[Download Slides](DiseasePredictionPresentation.pptx)
+[Download Slides](presentation/DiseasePredictionPresentation.pptx)
 
 ---
 
